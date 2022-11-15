@@ -13,7 +13,7 @@ public class Pessoa {
 	private Date dataNascimento;
 	
 	
-	private Date DataNascimento2;
+	
 	
 
 	public Date getDataNascimento() {
