@@ -2,7 +2,7 @@ package curso.java.alex;
 
 import java.util.Date;
 
-public class Pessoa {
+public class Pessoa { 
 	
 	private String nome;
 	
